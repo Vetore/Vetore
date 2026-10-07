@@ -42,4 +42,13 @@ Desenvolvo software com foco em **IA aplicada, automação e gestão educacional
 
 > 🔒 Alguns repositórios são privados. Demonstrações disponíveis mediante solicitação.
 
+### 🐍 Atividade
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vetore/Vetore/output/github-snake-dark.svg" />
+    <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/Vetore/Vetore/output/github-snake.svg" />
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
