@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33136333/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=180&section=header&text=Amauri%20Vetore&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenharia%20de%20Software%20%E2%80%A2%20IA%20aplicada%20%E2%80%A2%20Educa%C3%A7%C3%A3o%20Profissional&descAlignY=58&descSize=16" width="100%"/>
